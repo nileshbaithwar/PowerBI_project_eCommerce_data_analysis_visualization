@@ -1,4 +1,4 @@
-# Data Analysis and Visualization with Power BI
+# eCommerce data analysis and visualization with Power BI
 
 ## Overview
 This project focuses on data analysis and visualization using Power BI. The dataset is about an eCommerce platform with multiple sales channels, products, and demographic details. It includes information on sales across various cities and states, segmented by different age groups and gender.
@@ -59,15 +59,3 @@ The following types of visualizations were created in Power BI:
 ## Project Structure
 - `PowerBI_Files/` - Contains the main `.pbix` Power BI report file.
 - `Dataset/` - The raw dataset used for analysis (e.g., CSV, Excel files).
-
-## Contributing
-Feel free to fork the repository and make improvements. If you'd like to contribute, please submit a pull request with a description of the changes you've made.
-
-### Steps to Contribute:
-1. Fork the repository.
-2. Make your changes and commit them.
-3. Submit a pull request with a detailed explanation of the changes.
-
-## Acknowledgements
-- [Power BI](https://powerbi.microsoft.com/) for providing the tools used for visualization.
-
